@@ -15,7 +15,7 @@ url                 : "http://127.0.0.1:4000" #   the base hostname & protocol f
 twitter_username    : jekyllrb
 github_username     :  jekyll
 
-logo: 'assets/images/logo.png'
+logo: 'assets/images/Logo.png'
 favicon: 'assets/images/fav.png'
 
 paginate: 5
@@ -57,15 +57,15 @@ banner_description: 'Established in 2013, Red Canari is a Canadian corporation f
 banner_image: 'assets/images/banner/1.png'
 banner_btn_one_text: 'Talk To An Expert'
 banner_btn_one_link: '#'
-banner_btn_two_text: ''
-banner_btn_two_link: '#'
+#banner_btn_two_text: ''#
+#banner_btn_two_link: '#'#
 
 ####################################
 ######      idea Section      ######
 ####################################
 idea_title: 'We Are Here <span></span> For Made Your Idea'
 idea_description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm od tempor incididunt ut labore et dolore magna aliqua ut enim adminim veni am for humanity for savings '
-
+idea_image: 'assets/images/SmallGreyBG.png'
 
 
 ####################################
